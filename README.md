@@ -9,9 +9,9 @@
   <br />
   <br />
 
-  <h2 align="center">Foodie - Fast food website</h2>
+  <h2 align="center">Dinner - Fast food website</h2>
 
-  Foodie is a fully responsive fast food website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Dinner is a fully responsive fast food website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
   <a href="https://codewithsadee.github.io/foodie/"><strong>➥ Live Demo</strong></a>
 
@@ -21,7 +21,7 @@
 
 ### Demo Screeshots
 
-![Foodie Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Dinner Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -31,7 +31,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Foodie** locally, run this command on your git bash:
+To run **Dinner** locally, run this command on your git bash:
 
 Linux and macOS:
 
